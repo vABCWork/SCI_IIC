@@ -1,23 +1,3 @@
-/*********************************************************************
-*
-* Device     : RX/RX200
-*
-* File Name  : resetprg.c
-*
-* Abstract   : Reset Program.
-*
-* History    : 1.00  (2010-12-17)
-*            : 1.10  (2011-02-21)
-*            : 1.11  (2011-06-20)
-*            : 1.20  (2018-03-26)
-*            : 1.30  (2019-04-12)
-*
-* NOTE       : THIS IS A TYPICAL EXAMPLE.
-*
-* Copyright (C) 2010 (2011-2019) Renesas Electronics Corporation.
-* All rights reserved.
-*
-*********************************************************************/
 
 #include	<machine.h>
 #include	<_h_c_lib.h>
